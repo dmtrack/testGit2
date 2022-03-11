@@ -9,3 +9,6 @@ develop
 feature/main-page
 feature/about-company
 
+git branch [branch_name] - создание ветки
+git checkout [branch_name]  - переключение на ветку
+git branch -d [branch_name] - удаление ветки
